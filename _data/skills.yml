@@ -1,18 +1,60 @@
 - skill:
-  name: Python & Django
-  level: 98%
+  name: Java 1.8
+  level: 92%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
+  name: Python
+  level: 90%
 - skill:
-  name: Angular
-  level: 98%
+  name: Flask
+  level: 90%
 - skill:
-  name: HTML5 & CSS
-  level: 95%
+  name: Django
+  level: 80%
 - skill:
-  name: Ruby on Rails
+  name: Celery
+  level: 75%
+- skill:
+  name: Python
+  level: 90%
+- skill:
+  name: Scala
+  level: 75%
+- skill:
+  name: Play framework
   level: 85%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Akka
+  level: 65%
+- skill:
+  name: Spring framework
+  level: 75%
+- skill:
+  name: Hibernate
+  level: 75%
+- skill:
+  name: Struts 2
+  level: 70%
+- skill:
+  name: Cassandra
+  level: 90%
+- skill:
+  name: Redis
+  level: 95%
+- skill:
+  name: MongoDB
+  level: 80%
+- skill:
+  name: PostgreSQL
+  level: 80%
+- skill:
+  name: AWS
+  level: 70%
+- skill:
+  name: Web Services
+  level: 85%
+- skill:
+  name: Node.js
+  level: 65%
+- skill:
+  name: Git
+  level: 65%

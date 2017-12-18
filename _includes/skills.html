@@ -11,6 +11,18 @@
     </div>
  -->
     
+  <div class="item">
+    <h4 class="level-title">{{ skill.name }}</h4>
+    <div class="level-bar">
+      <div class="meter {{ skill.theme }}"> 
+        <span style="width: {{ skill.level }};">
+          <!-- <span>{{ skill.name }}</span> -->
+        </span>
+      </div>
+    </div>
+  </div>
+
+    <!-- 
     <div class="item">
       <h3 class="level-title">{{ skill.name }}</h3>
       <div class="level-bar">
@@ -18,7 +30,7 @@
         </div>
       </div>
     </div> 
-    
+     -->
     {% endfor %}
 
   </div>

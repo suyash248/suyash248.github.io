@@ -13,11 +13,8 @@ baseurl: '/suyash248.github.io' #change it according to your repository name
 #Profile information
 name: Suyash Soni
 tagline: Backend Developer
+subtagline: Python|Java|Scala
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: '
-► ~3.5 years of experience while working in product-based startups. Currently working as ‘Software Developer’ on a SaaS product, involved in designing scalable system using microservice-based(SOA) architecture. 
-
-► Open to explore new technologies/paradigm(Functional programming/Reactive programming/Big data/Machine learning etc.).'
 
 
 #sidebar links
@@ -28,9 +25,6 @@ linkedin: suyash248
 github: suyash248
 #twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
-
-# Tracker
-analytics: UA-83979019-1
 
 # Build settings
 encoding: "utf-8"

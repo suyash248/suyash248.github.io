@@ -13,7 +13,7 @@ baseurl: '/suyash248.github.io' #change it according to your repository name
 #Profile information
 name: Suyash Soni
 tagline: Backend Developer
-subtagline: Python|Java|Scala
+subtagline: (Python|Java|Scala)
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: '
 <p>► ~3.5 years of experience while working in product-based startups. Currently working as ‘Software Developer’ on a SaaS product, involved in designing scalable system using microservice-based(SOA) architecture. </p>

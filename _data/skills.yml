@@ -2,6 +2,9 @@
   name: Java 1.8
   level: 92%
 - skill:
+  name: Java EE
+  level: 80%
+- skill:
   name: Python
   level: 90%
 - skill:

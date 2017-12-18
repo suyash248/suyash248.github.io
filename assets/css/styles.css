@@ -338,6 +338,7 @@ used for profile image
 .meter > span  > span{
   margin-left: 4px;
   color: #fff;
+  font-weight: 9;
 }
 .meter > span:after, .animate > span > span {
   content: "";

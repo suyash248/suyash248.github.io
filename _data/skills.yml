@@ -1,63 +1,85 @@
 - skill:
   name: Java 1.8
   level: 92%
+  theme: emerald
 - skill:
   name: Java EE
   level: 80%
+  theme: carrot
 - skill:
   name: Python
   level: 90%
+  theme: wisteria
 - skill:
   name: Flask
   level: 90%
+  theme: sunflower
 - skill:
   name: Django
   level: 80%
+  theme: emerald
 - skill:
   name: Celery
   level: 75%
+  theme: midnight
 - skill:
   name: Python
   level: 90%
+  theme: carrot
 - skill:
   name: Scala
   level: 75%
+  theme: pomengrate
 - skill:
   name: Play framework
   level: 85%
+  theme: asbestos
 - skill:
   name: Akka
   level: 65%
+  theme: sunflower
 - skill:
   name: Spring framework
   level: 75%
+  theme: emerald
 - skill:
   name: Hibernate
   level: 75%
+  theme: midnight
 - skill:
   name: Struts 2
   level: 70%
+  theme: asbestos
 - skill:
   name: Cassandra
   level: 90%
+  theme: pomengrate
 - skill:
   name: Redis
   level: 95%
+  theme: emerald
 - skill:
   name: MongoDB
   level: 80%
+  theme: wisteria
 - skill:
   name: PostgreSQL
   level: 80%
+  theme: sunflower
 - skill:
   name: AWS
   level: 70%
+  theme: asbestos
 - skill:
   name: Web Services
   level: 85%
+  theme: carrot
 - skill:
   name: Node.js
   level: 65%
+  theme: emerald
 - skill:
   name: Git
   level: 65%
+  theme: pomengrate
+  

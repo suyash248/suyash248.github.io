@@ -4,11 +4,12 @@
   <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
 
   <div class="skillset">
-<div class="meter emerald">
-                    <span style="width: 237px;"><span>Aspect-oriented Programming</span></span>
-                                </div>
     {% for skill in site.data.skills %}
-    <div class="item">
+    <div class="meter {{ skill.theme }}">
+      <span style="width: {{ skill.level }};"><span>{{ skill.name }}</span></span>
+    </div>
+
+    <!-- <div class="item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
 
@@ -17,7 +18,7 @@
         </div>
       </div><!--//level-bar-->
 
-    </div><!--//item-->
+    </div> --><!--//item-->
     {% endfor %}
 
   </div>

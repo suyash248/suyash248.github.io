@@ -87,7 +87,7 @@
   level: 85%
   theme: carrot
 - skill:
-  name: Node.js
+  name: Socket.io
   level: 65%
   theme: emerald
 - skill:

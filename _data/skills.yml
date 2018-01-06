@@ -23,13 +23,41 @@
   level: 75%
   theme: midnight
 - skill:
-  name: Python
-  level: 90%
+  name: Node.js
+  level: 70%
   theme: carrot
 - skill:
   name: Scala
-  level: 75%
+  level: 65%
   theme: pomengrate
+- skill:
+  name: Apache Spark
+  level: 70%
+  theme: carrot
+- skill:
+  name: Cassandra
+  level: 90%
+  theme: pomengrate
+- skill:
+  name: Redis
+  level: 95%
+  theme: emerald
+- skill:
+  name: MongoDB
+  level: 80%
+  theme: wisteria
+- skill:
+  name: Neo4j
+  level: 75%
+  theme: carrot
+- skill:
+  name: Elasticsearch
+  level: 70%
+  theme: midnight
+- skill:
+  name: PostgreSQL
+  level: 80%
+  theme: sunflower
 - skill:
   name: Play framework
   level: 85%
@@ -50,22 +78,6 @@
   name: Struts 2
   level: 70%
   theme: asbestos
-- skill:
-  name: Cassandra
-  level: 90%
-  theme: pomengrate
-- skill:
-  name: Redis
-  level: 95%
-  theme: emerald
-- skill:
-  name: MongoDB
-  level: 80%
-  theme: wisteria
-- skill:
-  name: PostgreSQL
-  level: 80%
-  theme: sunflower
 - skill:
   name: AWS
   level: 70%
